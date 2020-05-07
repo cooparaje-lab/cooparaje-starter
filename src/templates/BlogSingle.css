@@ -1,0 +1,17 @@
+/* purgecss start ignore */
+.article p {
+  margin: 2rem 0;
+}
+
+.article .post-image {
+  text-align: center;
+}
+.article .post-image img {
+  width: 100%;
+}
+
+footer {
+  margin-top: 3rem;
+}
+
+/* purgecss end ignore */
