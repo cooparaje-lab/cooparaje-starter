@@ -5,7 +5,7 @@ import Pager from "../components/pager"
 import SEO from "../components/seo"
 import tw from "tailwind.macro"
 import styled from "@emotion/styled"
-import Card from "../components/Card/card"
+import Card from "../components/Card/Card"
 import Fade from "react-reveal/Fade"
 
 const BlogArchive = ({ data, pageContext, location }) => {
